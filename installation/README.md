@@ -1,0 +1,5 @@
+* [0_nodeIPs.md](0_nodeIPs.md)
+* [1_prechecks.md](1_prechecks.md)
+* [2_replica_working.png](2_replica_working.png)
+* [3_cm_installed.md](3_cm_installed.md)
+* [4_local_repo.png](4_local_repo.png)
